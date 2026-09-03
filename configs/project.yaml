@@ -1,0 +1,27 @@
+project:
+  name: industrial-surface-defect-inspection
+  seed: 42
+  device: auto
+  image_size: 256
+data:
+  root: data/raw/mvtec_ad
+  categories:
+    - bottle
+    - tile
+    - transistor
+  normal_dir: train/good
+  test_dir: test
+  mask_dir: ground_truth
+artifacts:
+  root: artifacts
+  models: artifacts/models
+  results: artifacts/results
+  visualizations: artifacts/visualizations
+evaluation:
+  metrics:
+    - image_auroc
+    - pixel_auroc
+    - precision
+    - recall
+    - f1
+    - inference_ms

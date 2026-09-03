@@ -1,0 +1,8 @@
+name: stfpm
+owner: D
+backbone: resnet18
+feature_layers: [layer1, layer2, layer3]
+epochs: 30
+batch_size: 16
+learning_rate: 0.0004
+

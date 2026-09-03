@@ -1,0 +1,7 @@
+name: patchcore
+owner: C
+backbone: resnet18
+feature_layers: [layer2, layer3]
+projection_dim: 384
+coreset_ratio: 0.02
+neighbors: 1

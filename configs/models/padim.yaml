@@ -1,0 +1,7 @@
+name: padim
+owner: B
+backbone: resnet18
+feature_layers: [layer1, layer2, layer3]
+embedding_dim: 100
+gaussian_regularization: 0.01
+
