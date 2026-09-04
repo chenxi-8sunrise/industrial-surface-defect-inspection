@@ -8,6 +8,5 @@ dist/
 .env
 data/raw/
 data/processed/
-artifacts/models/
 artifacts/results/
 backend/storage/

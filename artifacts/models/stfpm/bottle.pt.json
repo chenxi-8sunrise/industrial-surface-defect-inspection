@@ -1,0 +1,15 @@
+{
+  "model": "stfpm",
+  "category": "bottle",
+  "artifact": "C:\\Users\\admin\\Documents\\ChatGPT\\课设3 潘晴\\defect_inspection\\artifacts\\models\\stfpm\\bottle.pt",
+  "training": {
+    "loss": 0.009163393639028072,
+    "threshold": 0.02072569191455841,
+    "epoch_losses": [
+      0.0225347602473838,
+      0.014072185249200888,
+      0.010419599911464112
+    ],
+    "training_seconds": 81.3264769000001
+  }
+}

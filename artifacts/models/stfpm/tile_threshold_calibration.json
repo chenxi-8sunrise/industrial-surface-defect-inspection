@@ -1,0 +1,10 @@
+{
+  "model": "stfpm",
+  "category": "tile",
+  "method": "normal-training-score quantile",
+  "score_statistic": "pixel anomaly map 0.99 quantile",
+  "calibration_quantile": 0.9,
+  "normal_samples": 230,
+  "old_threshold": 0.02075373856350779,
+  "new_threshold": 0.01738059688359499
+}

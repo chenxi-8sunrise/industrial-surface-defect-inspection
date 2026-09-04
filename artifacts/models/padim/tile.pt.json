@@ -1,0 +1,9 @@
+{
+  "model": "padim",
+  "category": "tile",
+  "artifact": "C:\\Users\\admin\\Documents\\ChatGPT\\课设3 潘晴\\defect_inspection\\artifacts\\models\\padim\\tile.pt",
+  "training": {
+    "threshold": 1.0499396872520448,
+    "feature_channels": 100.0
+  }
+}

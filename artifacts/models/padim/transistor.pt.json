@@ -1,0 +1,9 @@
+{
+  "model": "padim",
+  "category": "transistor",
+  "artifact": "C:\\Users\\admin\\Documents\\ChatGPT\\课设3 潘晴\\defect_inspection\\artifacts\\models\\padim\\transistor.pt",
+  "training": {
+    "threshold": 1.5647550106048582,
+    "feature_channels": 100.0
+  }
+}

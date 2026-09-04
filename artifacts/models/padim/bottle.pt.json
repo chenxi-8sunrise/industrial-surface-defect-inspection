@@ -1,0 +1,9 @@
+{
+  "model": "padim",
+  "category": "bottle",
+  "artifact": "C:\\Users\\admin\\Documents\\ChatGPT\\课设3 潘晴\\defect_inspection\\artifacts\\models\\padim\\bottle.pt",
+  "training": {
+    "threshold": 1.1564624500274656,
+    "feature_channels": 100.0
+  }
+}

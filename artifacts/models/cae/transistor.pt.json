@@ -1,0 +1,17 @@
+{
+  "model": "cae",
+  "category": "transistor",
+  "artifact": "C:\\Users\\admin\\Documents\\ChatGPT\\课设3 潘晴\\defect_inspection\\artifacts\\models\\cae\\transistor.pt",
+  "training": {
+    "loss": 0.04115753993391991,
+    "threshold": 3.8110853481292706,
+    "epoch_losses": [
+      0.19463072078568594,
+      0.10181460157036781,
+      0.08008569266114916,
+      0.06334298316921506,
+      0.04436877183616161
+    ],
+    "training_seconds": 32.784538399999974
+  }
+}

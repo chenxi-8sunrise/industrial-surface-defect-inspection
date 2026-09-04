@@ -1,0 +1,9 @@
+{
+  "model": "patchcore",
+  "category": "tile",
+  "artifact": "C:\\Users\\admin\\Documents\\ChatGPT\\课设3 潘晴\\defect_inspection\\artifacts\\models\\patchcore\\tile.npz",
+  "training": {
+    "threshold": 0.7305071649610996,
+    "memory_patches": 4710.0
+  }
+}

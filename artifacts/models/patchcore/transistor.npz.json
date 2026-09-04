@@ -1,0 +1,9 @@
+{
+  "model": "patchcore",
+  "category": "transistor",
+  "artifact": "C:\\Users\\admin\\Documents\\ChatGPT\\课设3 潘晴\\defect_inspection\\artifacts\\models\\patchcore\\transistor.npz",
+  "training": {
+    "threshold": 0.7585903280258178,
+    "memory_patches": 4362.0
+  }
+}

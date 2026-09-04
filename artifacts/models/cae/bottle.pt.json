@@ -1,0 +1,17 @@
+{
+  "model": "cae",
+  "category": "bottle",
+  "artifact": "C:\\Users\\admin\\Documents\\ChatGPT\\课设3 潘晴\\defect_inspection\\artifacts\\models\\cae\\bottle.pt",
+  "training": {
+    "loss": 0.03152186796069145,
+    "threshold": 2.585117340087889,
+    "epoch_losses": [
+      0.2711925847189767,
+      0.0875864422747067,
+      0.054865473615271707,
+      0.040200525894761086,
+      0.03220934287777969
+    ],
+    "training_seconds": 31.414222799999948
+  }
+}

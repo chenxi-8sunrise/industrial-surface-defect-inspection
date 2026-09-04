@@ -1,0 +1,10 @@
+{
+  "model": "stfpm",
+  "category": "transistor",
+  "method": "normal-training-score quantile",
+  "score_statistic": "pixel anomaly map 0.99 quantile",
+  "calibration_quantile": 0.9,
+  "normal_samples": 213,
+  "old_threshold": 0.018586236238479614,
+  "new_threshold": 0.01814293898642063
+}

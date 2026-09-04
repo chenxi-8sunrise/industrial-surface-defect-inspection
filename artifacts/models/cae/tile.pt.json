@@ -1,0 +1,17 @@
+{
+  "model": "cae",
+  "category": "tile",
+  "artifact": "C:\\Users\\admin\\Documents\\ChatGPT\\课设3 潘晴\\defect_inspection\\artifacts\\models\\cae\\tile.pt",
+  "training": {
+    "loss": 0.05590967461466789,
+    "threshold": 2.746305184364319,
+    "epoch_losses": [
+      0.10832800418138504,
+      0.10096164941787719,
+      0.09262406975030898,
+      0.07407331715027492,
+      0.060904719928900404
+    ],
+    "training_seconds": 35.5253472
+  }
+}

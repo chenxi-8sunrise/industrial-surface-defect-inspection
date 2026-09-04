@@ -1,0 +1,9 @@
+{
+  "model": "patchcore",
+  "category": "bottle",
+  "artifact": "C:\\Users\\admin\\Documents\\ChatGPT\\课设3 潘晴\\defect_inspection\\artifacts\\models\\patchcore\\bottle.npz",
+  "training": {
+    "threshold": 0.6097179755687713,
+    "memory_patches": 4280.0
+  }
+}

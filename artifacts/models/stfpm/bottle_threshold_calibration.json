@@ -1,0 +1,10 @@
+{
+  "model": "stfpm",
+  "category": "bottle",
+  "method": "normal-training-score quantile",
+  "score_statistic": "pixel anomaly map 0.99 quantile",
+  "calibration_quantile": 0.95,
+  "normal_samples": 209,
+  "old_threshold": 0.02072569191455841,
+  "new_threshold": 0.02057257741689682
+}
